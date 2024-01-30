@@ -1,5 +1,5 @@
 <div id="header">
-         <h1> Welcome to my Github profile!</h1>
+         <h1> Welcome to my Github</h1>
          <p style="color: firebrick;">
              I want to shortly talk abaut me.
          </p>
