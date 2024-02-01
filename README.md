@@ -1,4 +1,4 @@
-<img id="images" src="developer.jpg" width="700" height="250" alt="developer">
+<img id="images" src="program.jpg" width="1000" height="250" alt="developer">
 <div id="header">
          <h1> Welcome to my Github</h1>
          <p style="color: firebrick;">
