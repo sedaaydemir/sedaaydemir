@@ -17,8 +17,7 @@
              <u>Talking About Personal Stuffs:</u>
          </h3>
          <li>Plc Programming-ST Language</li>
-         <li>Beginner level-Html,Css,Javascript,Bootstrap</li>
-         <li>I worked with Python, but I want to be at an advanced level-Python </li>
+         <li>I interested in Asp.net, C#, SQL,Html,Css,Javascript,Bootstrap</li>
          <li>I'm here for improve myshelf.</li>
          <li>Contact with me</li>
          <li>LinkedIn is <a href="https://www.linkedin.com/in/sedaaydemir/">in/sedaaydemir</a></li>
@@ -29,7 +28,6 @@
          <li>Painting</li>
          <li>Drive a Car</li>
          <li>Ride a Bike</li>
-         <li>Reading Book</li>
          <li>Make a Dessert</li>
     </div>
          
