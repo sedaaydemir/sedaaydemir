@@ -16,7 +16,6 @@
              <u>My hobies list: </u>
         </h3>
          <li>Painting</li>
-         <li>Drive a Car</li>
          <li>Ride a Bike</li>
          <li>Make a Dessert</li>
     </div>
