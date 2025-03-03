@@ -11,12 +11,4 @@
          <li>- 📫 **_You can reach me at seda.aydemir7@gmail.com_**</li>
          <li>- 📫 **_My LinkedIn account <a href="https://www.linkedin.com/in/sedaaydemir/">Seda Aydemir</a></li>
 </div>
-    <div>
-        <h3>
-             <u>My hobies list: </u>
-        </h3>
-         <li>Painting</li>
-         <li>Ride a Bike</li>
-         <li>Make a Dessert</li>
-    </div>
-         
+   
